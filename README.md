@@ -1,6 +1,3 @@
-echo "# verletSHM" >> README.md
-git init
-git add README.md
-git branch -M main
-git remote add origin https://github.com/namratasarania/verletSHM.git
-git push -u origin main
+# Course Project for MM644 at IIT Indore
+
+The PPT contains the context of the problem statement for this course project.
